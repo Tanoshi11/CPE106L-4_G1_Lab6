@@ -1,0 +1,11 @@
+_id: ObjectId('677bae47bd73f3e35d77f20ec')
+artist_id : 1
+name: "The Beatles"
+
+_id: ObjectId('677bae49bd73f3e35d77f20ee')
+artist_id : 2
+name: "Led Zeppelin"
+
+_id: ObjectId('677bae49bd73f3e35d77f20f0')
+artist_id : 3
+name: "Pink floyd"
