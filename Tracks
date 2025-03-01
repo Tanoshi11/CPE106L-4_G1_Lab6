@@ -1,0 +1,17 @@
+_id: ObjectId('67bae4eed73f3e35d77f20fa')
+track_id : 1
+name : "Come Together"
+album_id : 1
+duration : "4:20"
+
+_id: ObjectId('67bae4eed73f3e35d77f20fc')
+track_id : 2
+name : "Stairway to Heaven"
+album_id : 2
+duration : "8:02"
+
+_id: ObjectId('67bae598d73f3e35d77f20fa')
+track_id : 3
+name : "Time"
+album_id : 3
+duration : "7:06"
